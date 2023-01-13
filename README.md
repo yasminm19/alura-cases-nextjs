@@ -22,3 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJs
 - JavaScript
 - Git e Github
+- Vercel 
